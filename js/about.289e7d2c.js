@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgestor_plantilla"]=self["webpackChunkgestor_plantilla"]||[]).push([[594],{499:function(t,n,l){l.r(n),l.d(n,{default:function(){return i}});var s=function(){var t=this;t._self._c;return t._m(0)},u=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"about"},[n("h1",[t._v("This is an about page")])])}],a=l(1656),e={},r=(0,a.A)(e,s,u,!1,null,null,null),i=r.exports}}]);
+//# sourceMappingURL=about.289e7d2c.js.map
