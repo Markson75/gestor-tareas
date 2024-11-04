@@ -19,7 +19,7 @@ import axios from "axios";
    // Esta sección debe permitir agregar tareas nuevas a la vez que extraer las tareas anteriores de la API
 
 export default {
-    name: "CombinedView",
+    name: 'CombinedView',
     data() {
         return {
             newTask: "", // Campo de entrada para la nueva tarea
